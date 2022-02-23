@@ -8,7 +8,7 @@ $ yarn install
 $ yarn start
 ```
 
-# Fetures
+# Feature
 
 1. a store use case via redux and redux-thunk.
 2. a store use case via @reduxjs/toolkit and react-redux.
